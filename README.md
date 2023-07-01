@@ -15,12 +15,9 @@ Module 12 Challenge (SQL)
           <a name="Installation"></a> 
           
 *  [Usage-Information](#Usage-Information)
-          <a name="Usage-Information"></a> 
-          
-*  [License](#License)
-          <a name="License"></a> 
+          <a name="Usage-Information"></a>
          
-*  [Questions](#Questions)
+*  [Contact](#Contact-me)
           <a name="Questions"></a> 
           
 
@@ -30,6 +27,7 @@ While coding this App, I became proficient in joining tables and manipulating da
 
 ##  Live Screen Recording & GitHub Repo link 
 https://drive.google.com/file/d/1SEj024TQ-lN3wZYpJ250jYrjDMwjBUdM/view?usp=sharing
+https://github.com/mluron-ArxFjs/Employee_TrackerSQL
 
 ## Technologies Used
 This application leverages Node.js, JavaScript, and SQL to operate. It makes use of several dependencies from the node package manager (npm), including Express, mysql2, inquirer (v8.2.4), and asciiart-logo.
