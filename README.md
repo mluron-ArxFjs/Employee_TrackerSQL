@@ -3,20 +3,15 @@ Module 12 Challenge (SQL)
 ## Table of Contents
 
 *  [Description](#Description)
-          <a name="Screenshots"></a>
-
+           <a name="Description"></a>
 *  [Screenshots](#Screenshots)
           <a name="Screenshots"></a>
-   
 *  [Technologies-Used](#Technologies-Used)
-          <a name="Technologies Used"></a> 
-          
+          <a name="Technologies Used"></a>           
 *  [Installation](#Installation)
-          <a name="Installation"></a> 
-          
+          <a name="Installation"></a>          
 *  [Usage-Information](#Usage-Information)
-          <a name="Usage-Information"></a>
-         
+          <a name="Usage-Information"></a>        
 *  [Contact](#Contact-me)
           <a name="Questions"></a> 
           
